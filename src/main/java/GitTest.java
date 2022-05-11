@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("这里是master修改的");
         System.out.println("这里是hotfix再次修改的");
         System.out.println("idea里面Push的");
+        System.out.println("我在github修改了，请pull");
     }
 }
