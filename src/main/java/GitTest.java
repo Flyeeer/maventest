@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("first2");
         System.out.println("first2");
         System.out.println("这里是hotfix修改的");
+        System.out.println("这里是master修改的");
     }
 }
